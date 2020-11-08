@@ -6,5 +6,5 @@
 ![issue badge](https://img.shields.io/badge/c%2B%2B-5%25-%238052b7)
 
 
-### ![issue badge](https://img.shields.io/website?style=social&up_color=orange&up_message=%F0%9F%8D%95&url=https://ownit4137.github.io/&link=https://ownit4137.github.io/&link=https://ownit4137.github.io/)
+### ![issue badge](https://img.shields.io/badge/website-%F0%9F%8D%95-brightgreen?style=social&link=https://ownit4137.github.io/&link=https://ownit4137.github.io/)
 
