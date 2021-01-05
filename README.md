@@ -3,6 +3,8 @@
 ### Interest
 
 - Deep Learning
+- Computer Vision
+- Natural Language Processing
 
 <div align=center>
   
