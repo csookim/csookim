@@ -4,6 +4,9 @@
 
 - Deep Learning
 - Computer Vision
+  - Object Detection
+  - Image Classification
+- Generative Adversarial Network
 
 <div align=center>
   
