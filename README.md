@@ -2,11 +2,13 @@
 
 ### Interest
 
-- Deep Learning
+- Server Programming
+  - Java 
+
 - Computer Vision
   - Object Detection
   - Image Classification
-- Generative Adversarial Network
+
 
 <div align=center>
   
