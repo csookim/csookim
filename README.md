@@ -3,7 +3,8 @@
 ### Interest
 
 - Server Programming
-  - Java 
+  - Spring
+  - NodeJS 
 
 - Computer Vision
   - Object Detection
