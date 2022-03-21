@@ -2,7 +2,7 @@
 
 ### 🤔 I know how to
 
-#### make service using
+#### make a service using
   - Android Studio
   - Ruby
   - PyQt5
@@ -17,7 +17,7 @@
 <img src="https://avatars.githubusercontent.com/u/30696987?s=200&v=4" height="70" width="70" alt="Qiskit"/>
   
 
-#### develop server with
+#### build a server with
   - Amazon EC2
   - Spring
   - NodeJS
@@ -36,7 +36,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="70" width="70" alt="MySQL"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="70" width="70" alt="Docker"/>
 
-#### inspect image by
+#### inspect an image by
   - Object Detection
   - Image Classification
   - Face Pose Estimation
