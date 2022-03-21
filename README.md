@@ -1,14 +1,25 @@
 ## ✋
 
-### Interest
+### I know how to
 
-- Server Programming
-  - Spring
-  - NodeJS 
+#### make service using
+  - Android Studio
+  - Ruby
+  - PyQt5
 
-- Computer Vision
+#### develop server with
+  - Spring Boot
+  - NodeJS
+  - Amazon EC2
+  - mongoDB
+  - Firebase
+  - MySQL
+
+#### inspect image by
   - Object Detection
   - Image Classification
+  - Face Pose Estimation
+  - Neural style transfer
 
 
 <div align=center>
