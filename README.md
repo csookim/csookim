@@ -1,20 +1,40 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### I know how to
+### 🤔 I know how to
 
 #### make service using
   - Android Studio
   - Ruby
   - PyQt5
-  - IBM Quantum
+  - Raspberry Pi
+  - Qiskit
+
+<!-- https://devicon.dev/ -->
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" height="70" width="70" alt="Android"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" height="70" width="70" alt="Ruby"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original-wordmark.svg" height="70" width="70" alt="Raspberry Pi"/>
+<img src="https://avatars.githubusercontent.com/u/30696987?s=200&v=4" height="70" width="70" alt="Qiskit"/>
+  
 
 #### develop server with
-  - Spring Boot
-  - NodeJS
   - Amazon EC2
+  - Spring
+  - NodeJS
   - mongoDB
   - Firebase
   - MySQL
+  - Docker
+  
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="70" width="70" alt="Amazon"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="70" width="70" alt="Spring"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="70" width="70" alt="NodeJS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="70" width="70" alt="mongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="70" width="70" alt="Firebase"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="70" width="70" alt="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="70" width="70" alt="Docker"/>
 
 #### inspect image by
   - Object Detection
@@ -22,12 +42,8 @@
   - Face Pose Estimation
   - Neural style transfer
 
-
-<div align=center>
-  
-![issue badge](https://img.shields.io/badge/python-45%25-yellow?style=flat-square&logo=python&logoColor=white)
-![issue badge](https://img.shields.io/badge/java-45%25-%23ea8c10?style=flat-square&logo=java&logoColor=white)
-![issue badge](https://img.shields.io/badge/golang-5%25-%2300a7d0?style=flat-square&logo=go&logoColor=white)
-![issue badge](https://img.shields.io/badge/c%2B%2B-5%25-%238052b7?style=flat-square&logo=visual-studio&logoColor=white)
-
-</div>
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="70" width="70" alt="Python"/>
+<img src="https://github.com/pytorch/pytorch/blob/master/docs/source/_static/img/pytorch-logo-dark.svg" height="70" width="70" alt="Pytorch"/>
+<img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="70" width="70" alt="Colaboratory"/>
+<img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="70" alt="Kaggle"/>
