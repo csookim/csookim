@@ -1,8 +1,16 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+### 👨‍💻Currently, I am doing research with
+  - Qiskit
+  - Xilinx
+  
+<p align="center">
+<img src="https://avatars.githubusercontent.com/u/30696987?s=200&v=4" height="70" width="70" alt="Qiskit"/>
+<img src="https://www.linuxadictos.com/wp-content/uploads/logo-amd-xilinx.jpg" height="70" width="120" alt="Xilinx"/>
+
 ### 🤔 I'm interested in
 
-#### make a service using
+#### making a service using
   - Android Studio
   - Ruby
   - PyQt5
@@ -14,10 +22,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" height="70" width="70" alt="Android"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" height="70" width="70" alt="Ruby"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original-wordmark.svg" height="70" width="70" alt="Raspberry Pi"/>
-<img src="https://avatars.githubusercontent.com/u/30696987?s=200&v=4" height="70" width="70" alt="Qiskit"/>
+
   
 
-#### build a server using
+#### setting up a server using
   - Amazon EC2
   - Spring
   - NodeJS
@@ -36,7 +44,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="70" width="70" alt="MySQL"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="70" width="70" alt="Docker"/>
 
-#### inspect an image by
+#### analyzing an image by
   - Object Detection
   - Image Classification
   - Face Pose Estimation
