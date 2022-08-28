@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### 🤔 I know how to
+### 🤔 I'm able to
 
 #### make a service using
   - Android Studio
@@ -17,7 +17,7 @@
 <img src="https://avatars.githubusercontent.com/u/30696987?s=200&v=4" height="70" width="70" alt="Qiskit"/>
   
 
-#### build a server with
+#### build a server using
   - Amazon EC2
   - Spring
   - NodeJS
