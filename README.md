@@ -15,7 +15,6 @@
   - Ruby
   - PyQt5
   - Raspberry Pi
-  - Qiskit
 
 <!-- https://devicon.dev/ -->
 <p align="center">
