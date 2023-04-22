@@ -1,10 +1,15 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### Changsoo Kim, BS
-Post-baccalaureate researcher  
+Mar.2019~Aug.2022  
 Department of Computer Engineering  
 Inha University, Incheon, South Korea  
-Email: 12191584@inha.edu (official) |  kcs120727@gmail.com (private)
+
+Sep.2023~  
+Department of Computer Science  
+University of California, Los Angeles
+
+Email: ownit4137@ucla.edu (official) |  kcs120727@gmail.com (private)
 
 #### Interests
 Quantum compiler  
