@@ -9,7 +9,7 @@ Sep.2023~
 Department of Computer Science  
 University of California, Los Angeles
 
-Email: ownit4137@ucla.edu (official) |  kcs120727@gmail.com (private)
+Email: cs.kim@ucla.edu (official) |  bryson.cs.kim@gmail.com (private)
 
 #### Interests
 Quantum compiler  
