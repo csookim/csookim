@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### Changsoo Kim, BS
+### Changsoo Kim, MS
 Mar.2019~Aug.2022  
 Department of Computer Engineering  
 Inha University, Incheon, South Korea  
