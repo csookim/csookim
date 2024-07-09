@@ -9,13 +9,11 @@ Sep.2023~
 Department of Computer Science  
 University of California, Los Angeles
 
+Jul.2024~Sep.2024
+Centre for Quantum Technologies
+National University of Singapore, Singapore
+
 Email: cs.kim@ucla.edu (official) |  bryson.cs.kim@gmail.com (private)
 
 #### Interests
-Quantum compiler  
-Layout synthesis for quantum computing  
-Quantum compiler verification  
-Qubit error mitigation and correction
-
-#### Skills
-Python, C/C++, Java, Go, Qiskit, Xilinx, Android Studio, Ruby, PyQt5, Raspberry Pi, Amazon EC2, Spring, NodeJS, mongoDB, Firebase, MySQL, Docker, Pytorch, Kaggle
+Quantum Engineering
