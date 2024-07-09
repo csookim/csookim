@@ -9,8 +9,8 @@ Sep.2023~
 Department of Computer Science  
 University of California, Los Angeles
 
-Jul.2024~Sep.2024
-Centre for Quantum Technologies
+Jul.2024~Sep.2024  
+Centre for Quantum Technologies  
 National University of Singapore, Singapore
 
 Email: cs.kim@ucla.edu (official) |  bryson.cs.kim@gmail.com (private)
