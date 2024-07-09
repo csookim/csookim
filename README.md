@@ -7,7 +7,7 @@ Inha University, Incheon, South Korea
 
 Sep. 2023 – Present  
 Department of Computer Science  
-University of California, Los Angeles
+University of California, Los Angeles, California, United States
 
 Jul. 2024 – Sep. 2024  
 Centre for Quantum Technologies  
