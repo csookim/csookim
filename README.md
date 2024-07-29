@@ -9,6 +9,7 @@ Sep. 2023 – Present
 Department of Computer Science  
 University of California, Los Angeles, California, United States
 
+#### Industry
 Jul. 2024 – Sep. 2024  
 Centre for Quantum Technologies  
 National University of Singapore, Singapore
